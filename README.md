@@ -67,7 +67,7 @@ llm-gateway-proxy/
 
 ### 1. Clone & Set Up Environment
 ```bash
-git clone [https://github.com/Valentina14142000/llm-gateway-proxy.git](https://github.com/Valentina14142000/llm-gateway-proxy.git)
+git clone github repository
 cd llm-gateway-proxy
 
 Initialize and activate virtual environment
