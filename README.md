@@ -71,7 +71,7 @@ git clone github repository
 cd llm-gateway-proxy
 
 Initialize and activate virtual environment
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # On Windows use: .\venv\Scripts\Activate
 
 Install package with development dependencies
